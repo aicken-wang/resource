@@ -1,0 +1,12 @@
+## nameserver
+- block 块数据相关的
+- client请求相关
+- gc 垃圾回收相关
+- global_factory 工厂相关
+- heart心跳
+- layout 请求分发
+- nameserver ns服务
+- oplog操作 主从同步通过操作日志
+- servercollect ds 服务器 数据server
+- strategy 策略在这个文件实现
+- task 任务处理
